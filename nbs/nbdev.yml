@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ConorHassanWebsite-"
+  site-url: "https://conorhassan.github.io/ConorHassanWebsite-"
+  description: "Conor Hassan's Personal Website"
+  repo-branch: main
+  repo-url: "https://github.com/conorhassan/ConorHassanWebsite-"
